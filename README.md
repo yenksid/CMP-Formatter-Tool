@@ -31,6 +31,6 @@ License
 The CMP Formatter Tool is released under the MIT License. See the LICENSE file for more details.
 
 Contact
-For any questions or inquiries about the CMP Formatter Tool, you can contact the project owner at email@example.com.
+For any questions or inquiries about the CMP Formatter Tool, you can contact the project owner at diskney@gmail.com.
 
 Feel free to customize and expand upon this README file to provide more specific details about your CMP Formatter Tool and its usage.
